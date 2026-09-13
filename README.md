@@ -2,6 +2,8 @@
 
 An end-to-end Business Intelligence and Data Analytics project analyzing A2B's financial performance, retail outlet distribution, international expansion, menu pricing, and competitive landscape.
 
+---
+
 ## Project Overview
 
 This project uses business data from multiple areas of A2B to understand the company's performance and identify meaningful business insights.
